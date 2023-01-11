@@ -1,0 +1,20 @@
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\Client\bin\Debug\Client.exe.config
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\Client\bin\Debug\Client.exe
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\Client\bin\Debug\Client.pdb
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\Client\bin\Debug\IServis.dll
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\Client\bin\Debug\IServis.pdb
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\Client\obj\Debug\Client.exe
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\Client\obj\Debug\Client.pdb
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Client\bin\Debug\Client.exe.config
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Client\bin\Debug\Client.exe
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Client\bin\Debug\Client.pdb
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Client\bin\Debug\IServis.dll
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Client\bin\Debug\IServis.pdb
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Client\obj\Debug\Client.exe
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Client\obj\Debug\Client.pdb

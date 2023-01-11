@@ -1,0 +1,18 @@
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\bin\Debug\Server.exe.config
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\bin\Debug\Server.exe
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\bin\Debug\Server.pdb
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\bin\Debug\IServis.dll
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\bin\Debug\SecurityManager.dll
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\bin\Debug\IServis.pdb
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\bin\Debug\SecurityManager.pdb
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\obj\Debug\Server.exe
+C:\Users\Pantelic\Desktop\SBES_Tim8_ProjekatLP6\Projekat6\Server\obj\Debug\Server.pdb

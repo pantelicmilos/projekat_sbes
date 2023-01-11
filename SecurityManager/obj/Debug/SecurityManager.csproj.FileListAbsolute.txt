@@ -1,0 +1,7 @@
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\SecurityManager\obj\Debug\SecurityManager.RolesConfigFile.resources
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.cache
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\Pantelic\Documents\FAKS\_SAD DATI\SBES\Projekat_sbes\Projekat6\SecurityManager\obj\Debug\SecurityManager.pdb
