@@ -1,19 +1,5 @@
 # Sigurnost i bezbednost elektroenergetskog softvera
 
-## Autori
-
-<table>
-  <tr>
-    <td>Đorđe Lazarević</td>
-    <td>PR 147/2016</td>
-  </tr>
-  <tr>
-    <td>Miloš Pantelić</td>
-    <td>PR 116/2016</td>
-  </tr>
-  </table>
-  
-  # Lakši projektni zadatak 6
   
  Potrebno je realizovati sistem za sigurno koriščenje timer-a.
   
